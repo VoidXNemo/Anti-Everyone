@@ -1,5 +1,5 @@
 module.exports = {
-  name: "say",
+  name: "everyone",
   description: "Makes bot say what user said.",
   execute(message, args) {
       const sayMessage = args.join(" ")
